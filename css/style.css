@@ -1,0 +1,54 @@
+.salam{
+	display: inline;
+	background-color: green;
+}
+.aiyat{
+	display: block;
+	background-color: tomato;
+}
+.para{
+	width: 400px;
+	display: inline-block;
+	background-color: skyblue;
+	height: 10px
+}
+.divided{
+	background-color: coral;
+	display: inline;
+}
+.italic{
+	color: white;
+	background-color:dimgray;
+	display: block;
+}
+h2{
+	background-color: darkcyan;
+	padding: 30px;
+	border: 21px solid #0000ff99;
+	margin: 50px;
+
+}
+h3{
+	background-color: lightgray;
+	padding: 56px 46px 36px 58px;
+}
+h4{
+	background-color: royalblue;
+	padding-top: 20px;
+	padding-right: 29px;
+	padding-left: 500px;
+	padding-bottom: 59px
+	
+}
+#bor{
+	border: 20px double blue;
+	background-color: olivedrab;
+	border-bottom-color: red;
+	border-left-color: coral;
+	border-right-color: coral;
+	border-top-color: red;
+	 
+}
+p{
+		margin: 64px 324px 41px 69px;
+}
